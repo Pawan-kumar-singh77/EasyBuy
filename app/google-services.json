@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085024072358",
+    "project_id": "easy-buy-6922f",
+    "storage_bucket": "easy-buy-6922f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085024072358:android:ef8b601ae6bd3548e4ba67",
+        "android_client_info": {
+          "package_name": "com.example.easybuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085024072358-4gapk58nuorolopljad5gd43mpuh3p8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA97jxqebz44u3VchGlaZLdUoEKeimqT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085024072358-4gapk58nuorolopljad5gd43mpuh3p8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
